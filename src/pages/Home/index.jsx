@@ -11,8 +11,6 @@ const Home = () => {
   const [selectedTask, setSelectedTask] = useState(null);
   const [taskToDelete, setTaskToDelete] = useState(null);
 
-  // ... resto do código existente ...
-
   return (
     <Container>
       <Header>
